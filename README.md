@@ -27,6 +27,13 @@ The study is a component that can be adapted to perform any quiz.
 
 Developed with Angular 17.
 
+Business rules:
+The questions can be customized and the quiz can be changed however you want.
+
+Basically, the routine sorts through the questions, accumulating answers of type A or B.
+
+If during the quiz the user accumulates more answers with the letter A, in this example he will be a villain, and if he accumulates more answers with the letter B, he will be a hero.
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
@@ -66,7 +73,16 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Screenshots ##
 
-![](https://github.com/jonasfschuh/angular-psn-store-clone/blob/main/src/assets/screenshot.gif?raw=true&sanitize=true)
+![](https://github.com/jonasfschuh/angular-buzzfeed-quizz-clone/blob/main/src/assets/imgs/screenshot_1.gif?raw=true&sanitize=true)
+
+![](https://github.com/jonasfschuh/angular-buzzfeed-quizz-clone/blob/main/src/assets/imgs/screenshot_2.gif?raw=true&sanitize=true)
+
+![](https://github.com/jonasfschuh/angular-buzzfeed-quizz-clone/blob/main/src/assets/imgs/screenshot_3.gif?raw=true&sanitize=true)
+
+![](https://github.com/jonasfschuh/angular-buzzfeed-quizz-clone/blob/main/src/assets/imgs/screenshot_4.gif?raw=true&sanitize=true)
+
+Customizable data
+![](https://github.com/jonasfschuh/angular-buzzfeed-quizz-clone/blob/main/src/assets/imgs/data.gif?raw=true&sanitize=true)
 
 
 Made with :heart: by <a href="https://github.com/jonasfschuh" target="_blank">Jonas Fernando Schuh</a>
