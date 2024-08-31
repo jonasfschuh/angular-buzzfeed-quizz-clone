@@ -18,14 +18,10 @@
 ## :dart: About ##
 
 This is a blog project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
-
-This project aims to create a random guesser to decide whether you would be a hero or a villain.
-
-The decisions are based on multiple-choice tests to determine which power you would choose.
-
-The study is a component that can be adapted to perform any quiz.
-
-Developed with Angular 17.
+- This project aims to create a random guesser to decide whether you would be a hero or a villain.
+- The decisions are based on multiple-choice tests to determine which power you would choose.
+- The study is a component that can be adapted to perform any quiz.
+- Developed with Angular 17.
 
 
 **Business rules:**
