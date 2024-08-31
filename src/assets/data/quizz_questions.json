@@ -1,0 +1,55 @@
+{
+  "title":"Would you be a hero or a villain?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Which super power would you choose?",
+      "options":[
+        {"id": 1, "name":"Laser Rays", "alias":"A"},
+        {"id": 2, "name":"Fly", "alias":"B"},
+        {"id": 3, "name":"Blow things up", "alias":"A"},
+        {"id": 4, "name":"Heal wounds", "alias":"B"},
+        {"id": 5, "name":"Breathe fire through your hands", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Who would you save first?",
+      "options":[
+        {"id": 1, "name":"Children", "alias":"A"},
+        {"id": 2, "name":"Ederly", "alias":"A"},
+        {"id": 3, "name":"It depends on the context", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "What is your biggest concern when facing another super being?",
+      "options":[
+        {"id": 1, "name":"Do not destroy buildings", "alias":"B"},
+        {"id": 2, "name":"Punch the enemy in the face", "alias":"A"},
+        {"id": 3, "name":"Don't get my suit dirty", "alias":"A"},
+        {"id": 4, "name":"Don't let anyone get hurt", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "What is your biggest focus?",
+      "options":[
+        {"id": 1, "name":"Get rich with powers", "alias":"A"},
+        {"id": 2, "name":"Save the city", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "What is your super being nickname?",
+      "options":[
+        {"id": 1, "name":"The Terrible", "alias":"A"},
+        {"id": 2, "name":"Friendly neighborhood", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "You would most likely be a super villain!",
+    "B": "You would most likely be a Super Hero!"
+  }
+}
