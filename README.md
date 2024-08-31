@@ -27,7 +27,8 @@ The study is a component that can be adapted to perform any quiz.
 
 Developed with Angular 17.
 
-Business rules:
+
+**Business rules:**
 The questions can be customized and the quiz can be changed however you want.
 
 Basically, the routine sorts through the questions, accumulating answers of type A or B.
